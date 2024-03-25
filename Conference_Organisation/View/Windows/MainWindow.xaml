@@ -9,6 +9,10 @@
         MinHeight="720" MinWidth="1280" Height="900" Width="1600"
         WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
     </Grid>
 </Window>
